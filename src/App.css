@@ -1,4 +1,10 @@
 #hero {
     background: url("../src/img/hero-img.png") no-repeat center;
     min-height: 100vh;
+
 }
+#header {
+    position: fixed;
+    width: 100%;
+}
+
